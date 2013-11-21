@@ -12,7 +12,7 @@ Get 511.org API info and tokens here:
 
 To find stop codes use their stop code lookup tool (Direction is implicit in code):
 
-<http://transit.511.org/schedules/realtimedepartures.aspx#enable=stopidlookup>\
+<http://transit.511.org/schedules/realtimedepartures.aspx#enable=stopidlookup>
 
 I also found stop codes for AC Transit here:
 
